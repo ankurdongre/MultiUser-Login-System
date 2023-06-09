@@ -1,0 +1,75 @@
+body{
+    background-image: url("1713535.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.background{
+    background-color: black;
+    height: 760px;
+    width: 100%;
+    opacity: 0.8;
+}
+.form-control {
+    opacity: 0.8;
+    border: 1px solid white;    
+}
+.input-group-text{
+    opacity: 0.8;
+    border:2px solid black;
+}
+input[type=text]{
+border:2px solid black;
+}
+input[type=password]{
+    border:2px solid black;
+    }
+.box{
+height: 300px;
+width: 300px;
+background-image: url();
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%); 
+border-radius: 5px;
+padding: 1%;
+border: 1px solid white;
+}
+
+h2{
+    text-align: center;
+    margin-top: 2%;
+    color: white;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+}
+hr{
+    color: white;
+}
+.control{
+    height: 60%;
+    width: 90%;
+    margin-top: 1%;
+    position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+    
+}
+.btn{
+margin-top: 10px;
+margin-left: 15%;
+}
+a{
+    margin-top: 15px;
+    margin-left: 7px;
+   
+}
+.btn{
+    height: 40px;
+    width: 90px;
+    color: white;
+}
+.signup{
+    margin-left: 40%;
+}

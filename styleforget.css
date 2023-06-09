@@ -1,0 +1,63 @@
+body{
+    background-image: url("1713535.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.background{
+    background-color: black;
+    height: 760px;
+    width: 100%;
+    opacity: 0.8;
+}
+.form-control {
+    opacity: 0.8;
+    border: 1px solid white;    
+}
+.input-group-text{
+    opacity: 0.8;
+}
+.box{
+height: 370px;
+width: 300px;
+border: 1px solid white;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+border-radius: 5px;
+padding: 1%;
+}
+h2{
+    text-align: center;
+    margin-top: 2%;
+    color: white;
+    
+}
+.control{
+    height: 60%;
+    width: 90%;
+    margin-top: 1%;
+    position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+    
+}
+
+.btn{
+    height: 40px;
+    width: 200px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.width{
+    height: 100px;
+    width: 250px;
+    margin-left: 18px;
+}
+label{
+    color: white;
+}
+
